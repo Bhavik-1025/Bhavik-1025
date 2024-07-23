@@ -6,12 +6,12 @@ Hello! I'm Bhavik Sharma, a passionate software developer with a strong interest
 
 ## Skills
 
-- Languages: Java, C, C++, JavaScript
-- Web Development: HTML, CSS, SASS, BootStrap, Tailwind
-- Backend: Servlet, JSP
-- Database: MySQL, MariaDB , DBMS
+- Languages: Java, C, C++
+- Web Development: HTML, CSS 
+- Backend: Servlet, JSP, JDBC
+- Database: MySQL, DBMS
 - Cloud: EC2, RDS, S3, VPC
-- Course Work: OOPS, Data Structures, DBMS.
+- Course Work: OOPS, Data Structures, Agile.
 - Version Control: Git
 
 
